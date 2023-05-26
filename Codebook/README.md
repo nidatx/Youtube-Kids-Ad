@@ -1,0 +1,1 @@
+This folder contains the ads that we tagged. There were two coders at all times. For each country, there are two files, each corresponding to coder 1 and 2, respectively. Each file contains 150 ads that we tagged
