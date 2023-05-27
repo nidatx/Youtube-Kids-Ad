@@ -1,7 +1,7 @@
 # Youtube-Kids-Ad
 
 This project involves analyzing ads that play on kids content on Youtube.
-We aim to collect data from the most popular videos on Youtube and assess their appropriateness and relevance for child viewership (children aged 0-9).
+We aim to collect data from the most popular videos on Youtube and assess their appropriateness and relevance for child viewership (children under 9).
 
 Folders present in this repo:
 - Analysis notebooks: contains all the jupyter notebooks we used to cleaning and analysing our data
