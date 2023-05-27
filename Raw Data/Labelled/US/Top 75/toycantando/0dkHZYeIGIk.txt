@@ -1,0 +1,1 @@
+{"s27kADZ-qeg ":{"Count":1,"Skippable":0,"SkipDuration":999},"QRfs-m5pdPM ":{"Count":1,"Skippable":1,"SkipDuration":1},"oaGHj6GOTj8 ":{"Count":1,"Skippable":1,"SkipDuration":1},"4BlFe2X_u3U ":{"Count":1,"Skippable":1,"SkipDuration":1},"Main_Video":{"Url":"https://www.youtube.com/watch?v=0dkHZYeIGIk","Total Duration":532,"UniqueAds":4}}

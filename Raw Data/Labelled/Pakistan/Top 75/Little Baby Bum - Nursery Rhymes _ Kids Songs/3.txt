@@ -1,0 +1,1 @@
+{"sWDtg2UjFP0 ": {"Count": 1, "Skippable": 1, "SkipDuration": 4}, "OwQNnCD5WFs ": {"Count": 1, "Skippable": 1, "SkipDuration": 5}, "Banner Ad1": {"ImgSrc": "", "Url": "gastac.com"}, "Main_Video": {"Url": "https://www.youtube.com/watch?v=8vrQA-DTp0g", "Total Duration": 135, "UniqueAds": 2}}

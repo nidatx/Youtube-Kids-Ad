@@ -1,0 +1,1 @@
+{"MAFLyAW9xjQ ":{"Count":1,"Skippable":0,"SkipDuration":999},"c7kUBqwvuQg ":{"Count":1,"Skippable":1,"SkipDuration":5},"9o32X-90aXg ":{"Count":1,"Skippable":1,"SkipDuration":4},"H04TCxLTgvI ":{"Count":1,"Skippable":0,"SkipDuration":999},"Main_Video":{"Url":"https://www.youtube.com/watch?v=Lq3GZnwIJmM","Total Duration":2066,"UniqueAds":4}}

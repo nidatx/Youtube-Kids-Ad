@@ -1,0 +1,1 @@
+{"s27kADZ-qeg ":{"Count":1,"Skippable":1,"SkipDuration":4},"Lw9BVr_66pU ":{"Count":1,"Skippable":1,"SkipDuration":5},"w1OIEwd4BqY ":{"Count":1,"Skippable":1,"SkipDuration":5},"Vdr4_LDtCss ":{"Count":1,"Skippable":1,"SkipDuration":5},"Main_Video":{"Url":"https://www.youtube.com/watch?v=or-eVCya2Bw","Total Duration":780,"UniqueAds":4}}

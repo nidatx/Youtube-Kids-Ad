@@ -1,0 +1,1 @@
+{"Sidebar": {"Img": "", "Title": "Computer Technology Schools", "Description": "Info on Computer Technology Schools. Get Results from 8 Search Engines", "Link": "us.ingosearch.com"}, "Main_Video": {"Url": "https://www.youtube.com/watch?v=1dttq5p0xUM", "Total Duration": 158.741, "UniqueAds": 0}}

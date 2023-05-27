@@ -1,0 +1,1 @@
+{"ulN4LSNaluo ": {"Count": 1, "Skippable": 1, "SkipDuration": 2}, "Banner Ad1": {"ImgSrc": "https://tpc.googlesyndication.com/pagead/imgad?id=CICAgOCSgL7mExCsAhg8MghVcjB0O3UUew", "Url": "godaddy.com"}, "gRIsS2GwuBA ": {"Count": 1, "Skippable": 1, "SkipDuration": 4}, "Main_Video": {"Url": "https://www.youtube.com/watch?v=NTQiuuqyFjc", "Total Duration": 602, "UniqueAds": 2}}

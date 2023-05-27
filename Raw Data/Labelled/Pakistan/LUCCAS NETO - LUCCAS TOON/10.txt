@@ -1,0 +1,1 @@
+{"plDV2xtOr00 ": {"Count": 1, "Skippable": 1, "SkipDuration": 5}, "Banner Ad1": {"ImgSrc": "", "Url": "register.sandbox.game", "Text": "\n        DON'T MISS IT\n      "}, "Main_Video": {"Url": "https://www.youtube.com/watch?v=DCzIdAu3odE", "Total Duration": 244, "UniqueAds": 1}}

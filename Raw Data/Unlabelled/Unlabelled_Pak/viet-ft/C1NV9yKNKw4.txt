@@ -1,0 +1,1 @@
+{"lt1865AJzZQ ":{"Count":1,"Skippable":1,"SkipDuration":4},"sGxEiDix6A8 ":{"Count":1,"Skippable":1,"SkipDuration":5},"-Ri0lUq0oTc ":{"Count":1,"Skippable":1,"SkipDuration":5},"Main_Video":{"Url":"https://www.youtube.com/watch?v=C1NV9yKNKw4","Total Duration":776,"UniqueAds":3}}

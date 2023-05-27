@@ -1,0 +1,1 @@
+{"-RuqqLlCXEU ":{"Count":1,"Skippable":1,"SkipDuration":4},"gWbhoYOWiCg ":{"Count":1,"Skippable":1,"SkipDuration":5},"ed8lEXjeK9I ":{"Count":1,"Skippable":1,"SkipDuration":5},"vqDo11b5dEA ":{"Count":1,"Skippable":0,"SkipDuration":999},"Main_Video":{"Url":"https://www.youtube.com/watch?v=DK0wmIyjnyE","Total Duration":1010,"UniqueAds":4}}

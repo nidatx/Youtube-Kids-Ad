@@ -1,0 +1,1 @@
+{"USKw2b-wSKA ": {"Count": 1, "Skippable": 1, "SkipDuration": 5}, "dN1ZqEuvVGQ ": {"Count": 1, "Skippable": 1, "SkipDuration": 4}, "jXf49ZHphV8 ": {"Count": 1, "Skippable": 1, "SkipDuration": 5}, "1vjqGDkJSzk ": {"Count": 1, "Skippable": 1, "SkipDuration": 5}, "Main_Video": {"Url": "https://www.youtube.com/watch?v=UNJyKp1yIx4", "Total Duration": 1195.761, "UniqueAds": 4}}

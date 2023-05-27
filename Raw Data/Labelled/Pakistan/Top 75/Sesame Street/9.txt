@@ -1,0 +1,1 @@
+{"gRIsS2GwuBA ": {"Count": 1, "Skippable": 1, "SkipDuration": 5}, "Banner Ad1": {"ImgSrc": "https://tpc.googlesyndication.com/pagead/imgad?id=CICAgOCSgL7mExCsAhg8MghVcjB0O3UUew", "Url": "godaddy.com"}, "Main_Video": {"Url": "https://www.youtube.com/watch?v=vSYadh2xmcI", "Total Duration": 196.521, "UniqueAds": 1}}

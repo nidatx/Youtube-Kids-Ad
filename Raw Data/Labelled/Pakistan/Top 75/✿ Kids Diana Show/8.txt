@@ -1,0 +1,1 @@
+{"VYmm6qAkbDI ": {"Count": 1, "Skippable": 1, "SkipDuration": 5}, "nOxZiav_pv8 ": {"Count": 1, "Skippable": 1, "SkipDuration": 4}, "Banner Ad1": {"ImgSrc": "", "Url": "adaptedmind.com"}, "Main_Video": {"Url": "https://www.youtube.com/watch?v=abxA_XtnRSc", "Total Duration": 532.981, "UniqueAds": 2}}

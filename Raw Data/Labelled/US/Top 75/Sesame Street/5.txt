@@ -1,0 +1,1 @@
+{"Banner Ad1": {"ImgSrc": "", "Url": "venmo.com/debitcard/signup", "Text": "Venmo Debit"}, "Main_Video": {"Url": "https://www.youtube.com/watch?v=yu44JRTIxSQ", "Total Duration": 90.881, "UniqueAds": 0}}

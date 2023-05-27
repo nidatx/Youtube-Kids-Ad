@@ -1,0 +1,1 @@
+{"fvYpJpRPkqo ":{"Count":1,"Skippable":0,"SkipDuration":999},"LQYoreruLIU ":{"Count":1,"Skippable":1,"SkipDuration":1},"tUNcPrRHD9k ":{"Count":1,"Skippable":0,"SkipDuration":999},"4MBFlvPmaJY ":{"Count":1,"Skippable":0,"SkipDuration":999},"Main_Video":{"Url":"https://www.youtube.com/watch?v=ePFgYM0Z3ds","Total Duration":713.921,"UniqueAds":4}}

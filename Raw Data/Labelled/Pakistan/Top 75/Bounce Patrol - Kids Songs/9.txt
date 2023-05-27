@@ -1,0 +1,1 @@
+{"OHiotm-WzYE ": {"Count": 1, "Skippable": 1, "SkipDuration": 1}, "RkL3YP2usOE ": {"Count": 1, "Skippable": 1, "SkipDuration": 5}, "Banner Ad1": {"ImgSrc": "", "Url": "godaddy.com", "Text": "Corporate email"}, "Main_Video": {"Url": "https://www.youtube.com/watch?v=hSQxjB1Jdkw", "Total Duration": 1236, "UniqueAds": 2}}

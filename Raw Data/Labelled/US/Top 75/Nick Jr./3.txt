@@ -1,0 +1,1 @@
+{"71vnCgvOJks ": {"Count": 1, "Skippable": 1, "SkipDuration": 1}, "Banner Ad1": {"ImgSrc": "", "Url": "dickssportinggoods.com/SportsChangeLives", "Text": "DICK'S Sporting Goods"}, "Main_Video": {"Url": "https://www.youtube.com/watch?v=vNswtFbw09o", "Total Duration": 71, "UniqueAds": 1}}

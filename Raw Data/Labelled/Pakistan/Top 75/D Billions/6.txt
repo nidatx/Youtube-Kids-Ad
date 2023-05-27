@@ -1,0 +1,1 @@
+{"RkL3YP2usOE ": {"Count": 1, "Skippable": 1, "SkipDuration": 2}, "Banner Ad1": {"ImgSrc": "https://tpc.googlesyndication.com/pagead/imgad?id=CICAgOCSgOGULhCsAhg8MgjBobzXih4J1Q", "Url": "godaddy.com", "Text": "Corporate email"}, "Main_Video": {"Url": "https://www.youtube.com/watch?v=-aIhPtaTQ6c", "Total Duration": 90, "UniqueAds": 1}}

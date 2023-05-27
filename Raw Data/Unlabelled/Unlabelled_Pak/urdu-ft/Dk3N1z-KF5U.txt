@@ -1,0 +1,1 @@
+{"SsL6RVQlIRk ":{"Count":1,"Skippable":1,"SkipDuration":4},"TjxskTJd9eM ":{"Count":1,"Skippable":1,"SkipDuration":5},"9YXd0T7_idA ":{"Count":1,"Skippable":1,"SkipDuration":5},"FuyV5AloHWk ":{"Count":1,"Skippable":1,"SkipDuration":5},"Main_Video":{"Url":"https://www.youtube.com/watch?v=Dk3N1z-KF5U","Total Duration":693,"UniqueAds":4}}

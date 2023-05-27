@@ -1,0 +1,1 @@
+{"wHRXWNkizyA ": {"Count": 1, "Skippable": 1, "SkipDuration": 1}, "olxkWlZGA8s ": {"Count": 1, "Skippable": 1, "SkipDuration": 5}, "Banner Ad1": {"ImgSrc": "", "Url": "my.msmuadmission.org", "Text": "Time to thrive."}, "Main_Video": {"Url": "https://www.youtube.com/watch?v=Kbr7PPXpX6c", "Total Duration": 329, "UniqueAds": 2}}

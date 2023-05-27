@@ -1,0 +1,1 @@
+{"TMi9bCJaHHs ": {"Count": 1, "Skippable": 0, "SkipDuration": 999}, "Banner Ad1": {"ImgSrc": "", "Url": "www.youtube.com/@DaldaFoodsOfficial"}, "Main_Video": {"Url": "https://www.youtube.com/watch?v=jWltpC1d8Mk&ab", "Total Duration": 604, "UniqueAds": 1}}

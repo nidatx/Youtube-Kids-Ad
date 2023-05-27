@@ -1,0 +1,1 @@
+{"fOdo1GkzZAk ": {"Count": 1, "Skippable": 1, "SkipDuration": 1}, "Banner Ad1": {"ImgSrc": "", "Url": "adaptedmind.com", "Text": "Fun Math Games"}, "mdYeY0KjYJQ ": {"Count": 1, "Skippable": 1, "SkipDuration": 5}, "Main_Video": {"Url": "https://www.youtube.com/watch?v=_Wp0vZnR_FM", "Total Duration": 233, "UniqueAds": 2}}

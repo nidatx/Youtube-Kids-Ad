@@ -1,0 +1,1 @@
+{"vtMyHw9OpTE ":{"Count":1,"Skippable":1,"SkipDuration":4},"EFIFazsqKlw ":{"Count":1,"Skippable":1,"SkipDuration":5},"Main_Video":{"Url":"https://www.youtube.com/watch?v=mynAVWWJyUo","Total Duration":2740,"UniqueAds":2}}

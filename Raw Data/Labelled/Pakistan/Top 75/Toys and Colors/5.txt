@@ -1,0 +1,1 @@
+{"JpNCpykjPqk ": {"Count": 1, "Skippable": 1, "SkipDuration": 3}, "Banner Ad1": {"ImgSrc": "https://tpc.googlesyndication.com/pagead/imgad?id=CICAgOCSgKGfWRCsAhg8MggaLJlqhJVQWQ", "Url": "godaddy.com"}, "Main_Video": {"Url": "https://www.youtube.com/watch?v=2wwKoI09mNQ", "Total Duration": 326, "UniqueAds": 1}}

@@ -1,0 +1,1 @@
+{"vXC8d9tfFBY ":{"Count":1,"Skippable":0,"SkipDuration":999},"KK-lKMteE4E ":{"Count":1,"Skippable":1,"SkipDuration":2},"YG8GVvWzmiU ":{"Count":1,"Skippable":1,"SkipDuration":4},"jZnmUV4eZew ":{"Count":1,"Skippable":1,"SkipDuration":1},"Main_Video":{"Url":"https://www.youtube.com/watch?v=0xTyKc6LGdY","Total Duration":795,"UniqueAds":4}}

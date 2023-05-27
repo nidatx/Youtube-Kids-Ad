@@ -1,0 +1,1 @@
+{"VdKzCusSodE ": {"Count": 1, "Skippable": 1, "SkipDuration": 0}, "Banner Ad1": {"ImgSrc": "", "Url": "forthepeople.com", "Text": "Free Consult"}, "Main_Video": {"Url": "https://www.youtube.com/watch?v=Xw_NNKpGobE", "Total Duration": 112, "UniqueAds": 1}}

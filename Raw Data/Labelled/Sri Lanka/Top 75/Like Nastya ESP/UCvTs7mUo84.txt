@@ -1,0 +1,1 @@
+{"bQES_F6c7c8 ":{"Count":1,"Skippable":1,"SkipDuration":3},"lgh45wEHyP4 ":{"Count":1,"Skippable":1,"SkipDuration":5},"DwNatxJHBGo ":{"Count":1,"Skippable":0,"SkipDuration":999},"SaOd0DC-tD8 ":{"Count":1,"Skippable":1,"SkipDuration":5},"Main_Video":{"Url":"https://www.youtube.com/watch?v=UCvTs7mUo84","Total Duration":736,"UniqueAds":4}}

@@ -1,0 +1,1 @@
+{"nOxZiav_pv8 ":{"Count":1,"Skippable":1,"SkipDuration":4},"gvF0XKO4EvQ ":{"Count":1,"Skippable":1,"SkipDuration":5},"JKDYEHOtx4s ":{"Count":1,"Skippable":1,"SkipDuration":5},"EVQZJ8sHBK4 ":{"Count":1,"Skippable":1,"SkipDuration":4},"Main_Video":{"Url":"https://www.youtube.com/watch?v=JKDYEHOtx4s&ab_channel=ItalianFairyTales","Total Duration":750,"UniqueAds":4}}

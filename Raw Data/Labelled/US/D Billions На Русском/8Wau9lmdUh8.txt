@@ -1,0 +1,1 @@
+{"Sidebar":{"Img":"","Title":"Remote desktop management tool","Description":"Enjoy the freedom of remote work with reliable remote access","Link":"us.shofast.com"},"Main_Video":{"Url":"https://www.youtube.com/watch?v=8Wau9lmdUh8","Total Duration":148.321,"UniqueAds":0}}

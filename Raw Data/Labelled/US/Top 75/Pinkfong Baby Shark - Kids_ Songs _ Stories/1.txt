@@ -1,0 +1,1 @@
+{"wZ7Amwl-YAk ": {"Count": 1, "Skippable": 1, "SkipDuration": 3}, "9OU6ErcAxRE ": {"Count": 1, "Skippable": 0, "SkipDuration": 999}, "Banner Ad1": {"ImgSrc": "", "Url": "wish.com", "Text": "Join Wishmas!"}, "Main_Video": {"Url": "https://www.youtube.com/watch?v=XqZsoesa55w", "Total Duration": 136, "UniqueAds": 2}}

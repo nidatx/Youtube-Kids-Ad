@@ -1,0 +1,1 @@
+{"eW_s6qSgtMg ": {"Count": 1, "Skippable": 1, "SkipDuration": 1}, "Banner Ad1": {"ImgSrc": "https://tpc.googlesyndication.com/pagead/imgad?id=CICAgOCC5NDCSBCsAhg8MgjeBF_jH4Aqsw", "Url": "samsung.com", "Text": "Create more"}, "Main_Video": {"Url": "https://www.youtube.com/watch?v=89_ZIxJt2tI", "Total Duration": 108, "UniqueAds": 1}}

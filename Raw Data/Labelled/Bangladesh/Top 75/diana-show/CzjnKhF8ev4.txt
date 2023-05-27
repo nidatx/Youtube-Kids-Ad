@@ -1,0 +1,1 @@
+{"67q59zxx8xE ":{"Count":1,"Skippable":0,"SkipDuration":999},"SAEW80hDsOk ":{"Count":1,"Skippable":1,"SkipDuration":3},"gR1sFN15Ntk ":{"Count":1,"Skippable":1,"SkipDuration":4},"nOxZiav_pv8 ":{"Count":1,"Skippable":1,"SkipDuration":3},"Main_Video":{"Url":"https://www.youtube.com/watch?v=CzjnKhF8ev4","Total Duration":601,"UniqueAds":4}}

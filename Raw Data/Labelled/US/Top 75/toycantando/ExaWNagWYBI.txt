@@ -1,0 +1,1 @@
+{"lQ_DhnGxfT8 ":{"Count":1,"Skippable":0,"SkipDuration":999},"kEMXZu2scKE ":{"Count":1,"Skippable":1,"SkipDuration":3},"iTt18nwB2EU ":{"Count":1,"Skippable":1,"SkipDuration":0},"oTBusBzQGEY ":{"Count":1,"Skippable":1,"SkipDuration":5},"Main_Video":{"Url":"https://www.youtube.com/watch?v=ExaWNagWYBI","Total Duration":1591,"UniqueAds":4}}

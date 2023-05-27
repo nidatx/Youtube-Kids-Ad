@@ -1,0 +1,1 @@
+{"wMKvGAHJ-t4 ":{"Count":1,"Skippable":0,"SkipDuration":999},"Qwytc28HmSc ":{"Count":1,"Skippable":1,"SkipDuration":5},"db9ZxunCtN4 ":{"Count":1,"Skippable":1,"SkipDuration":5},"Hxy0AEktdaQ ":{"Count":1,"Skippable":0,"SkipDuration":999},"Main_Video":{"Url":"https://www.youtube.com/watch?v=BhWvFGarLew","Total Duration":3605.821,"UniqueAds":4}}

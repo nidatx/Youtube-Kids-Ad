@@ -1,0 +1,1 @@
+{"hCaJn-d18B8 ":{"Count":1,"Skippable":1,"SkipDuration":4},"S3GnywrceVc ":{"Count":1,"Skippable":1,"SkipDuration":5},"G7U7vt9bGy8 ":{"Count":1,"Skippable":0,"SkipDuration":999},"Main_Video":{"Url":"https://www.youtube.com/watch?v=S2iAvpSAVQ4","Total Duration":532.461,"UniqueAds":3}}
