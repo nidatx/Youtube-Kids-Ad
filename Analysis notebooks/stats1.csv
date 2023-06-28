@@ -1,0 +1,21 @@
+﻿Region,Content,Country,child-directed,irrelevant,inappropriate,inaudible,excluded
+High,Unlabelled,France ,14,119,16,1,0
+High,Unlabelled,UK ,8,122,19,0,1
+High,Unlabelled,US,9,122,16,1,2
+High,Unlabelled,Sweden,10,131,4,5,0
+High,Unlabelled,Germany,10,131,7,1,1
+Low,Unlabelled,Pakistan,10,103,28,8,1
+Low,Unlabelled,Morocco,10,110,23,7,0
+Low,Unlabelled,Bangladesh,9,94,43,4,0
+Low,Unlabelled,Sri Lanka,17,89,43,1,0
+Low,Unlabelled,Venezuela,5,77,53,13,2
+High,Labelled,France,24,118,7,1,0
+High,Labelled,UK,28,115,4,3,0
+High,Labelled,US,36,110,4,0,0
+High,Labelled,Sweden,25,115,7,3,0
+High,Labelled,Germany,31,114,5,0,0
+Low,Labelled,Pakistan,10,93,30,10,7
+Low,Labelled,Morocco,14,89,33,14,0
+Low,Labelled,Bangladesh,13,83,44,10,0
+Low,Labelled,Sri Lanka,13,74,53,8,2
+Low,Labelled,Venezuela,12,73,56,9,0
